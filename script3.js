@@ -22,11 +22,11 @@ document.write("HTML/CSS/Javascript/Jquery/PHP/Ruby/<br>".bold().italics());
 document.write("食生活アドバイザー保持/簿記、会計、株式投資の知識あり".bold().italics());
 document.write("<br><hr>");
 document.write("このページで使用している画像は「ぱくたそ」のフリー画像です。<br><hr>".bold().italics());
-document.write("「Teck-Teck World」ロゴ<br>".bold().italics())
+document.write("「Teck-Teck World」オリジナルロゴ<br>".bold().italics())
 document.write("<br><img src = 'https://github.com/hiro-eng/portjsq/blob/main/20201110-2158_1c68e0735d0a2c156c6ce1ed12204316.jpg?raw=true' width = '300px' height = '170px'>");
 document.write("<br><hr>");
 document.write("画面を二回クリックするとメッセージが表示されるよ！<br>".bold().italics());
-document.write("<hr><br>");
+document.write("<hr>");
 document.write("当ページはPC専用です。<br>".bold().italics());
 
 window.onload = function(){
@@ -36,7 +36,7 @@ window.onload = function(){
     },1000);
 }
 function msg1(){
-  alert("いらっしゃいませ。ご来場ありがとうございます！ お仕事のご依頼、お待ちしております！　by HIROHIRO ");
+  alert("ご来場ありがとうございます。お仕事のご依頼お待ちしております。　by HIROHIRO ");
 
 }
 
