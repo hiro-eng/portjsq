@@ -34,7 +34,7 @@ window.onload = function(){
     },1000);
 }
 function msg1(){
-  alert("いらっしゃいませ。ご来場ありがとうございます！　by HIROHIRO ");
+  alert("いらっしゃいませ。ご来場ありがとうございます！ お仕事のご依頼、お待ちしております！　by HIROHIRO ");
 
 }
 
