@@ -29,7 +29,7 @@ document.write("画面を二回クリックするとメッセージが表示さ�
 document.write("<hr>");
 document.write("当ページはPC専用です。<br>".bold().italics());
 document.write("<hr>");
-document.write("<br>>>>>>>>>");
+document.write("<br>>>>>>>>>".bold());
 
 window.onload = function(){
    setInterval(function(){
