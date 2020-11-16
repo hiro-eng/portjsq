@@ -3,7 +3,7 @@ document.write("<hr>");
 document.write(str.fontsize(32).italics());
 document.write("<hr>");
 document.write("あなたのお気に入りのwebページを作ります。<br>".bold().italics());
-document.writeln("<img src = 'https://file2-d-cdn.svk.jp//thumbs/20201110-2240_260a3efb198a5af13819bb04f119ccf0.jpg' width= '500px' height ='350px'　alt ='スマホを見る少女'>");
+document.writeln("<img src = 'https://github.com/hiro-eng/portjsq/blob/main/20201110-2240_260a3efb198a5af13819bb04f119ccf0.jpg?raw=true' width= '500px' height ='350px'　alt ='スマホを見る少女'>");
 document.write("<br>>>>>>>このページはJavascript/Jqueryのみで作成してあります。<br>".bold().italics());
 document.write("<br><hr>");
 document.write("HP作成/管理<br>".fontsize(16).italics());
