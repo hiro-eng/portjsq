@@ -23,7 +23,7 @@ document.write("食生活アドバイザー保持/簿記、会計、株式投資
 document.write("<br><hr>");
 document.write("このページで使用している画像は「ぱくたそ」のフリー画像です。<br><hr>".bold().italics());
 document.write("「Teck-Teck World」ロゴ<br>".bold().italics())
-document.write("<br><img src = 'https://github.com/hiro-eng/portjsq/blob/main/20201110-2158_1c68e0735d0a2c156c6ce1ed12204316.jpg?raw=true' width = '250px' height = '170px'>");
+document.write("<br><img src = 'https://github.com/hiro-eng/portjsq/blob/main/20201110-2158_1c68e0735d0a2c156c6ce1ed12204316.jpg?raw=true' width = '300px' height = '170px'>");
 document.write("<br><hr>");
 document.write("画面を二回クリックするとメッセージが表示されるよ！<br>".bold().italics());""
 document.write("当ページはPC専用です。".bold().italics());
