@@ -25,18 +25,16 @@ width:100%;
 }
   
 body{
- animation-name:fadein;
- animation-duration:4s;
+ animation:fadeIn 2s ease 0s 1 normal;
+ -webkit-animation:fadeIn 2s ease 0s 1 normal;
 }
-@keyframes fadein{
- from{
- opacity:0;
-transform:translateY(30px);
+@keyframes fadeIn{
+  0%{ opacity:0 }
+  100%{opacity:1}
 }
-to{
- opacity:1;
- transform:translateY(0);
-}
+  @-webkit-keyframes fadeIn{
+    0%{opacity: 0}
+    100%{opacity:1}
 }
 </style>
           </body>
