@@ -55,7 +55,7 @@ $(document).ready(function(){
 //    $("h1").css("color","black");
 // },
    function(){
-      $("h1").text("WELCOME!!!!!!!!").css("color","#ff6666");
+      $("h1").text("WELCOME!!!!!!!!!!!!!").css("color","#ff6666");
    },
     function(){
        $("h1").text("ITのお仕事ならお任せ").css("color","black");
