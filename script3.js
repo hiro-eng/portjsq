@@ -51,9 +51,9 @@ $(document).ready(function(){
      function(){
     $("h1").css("color","#ff6666");
   },
-   function(){
-     $("h1").css("color","black");
-   },
+//   function(){
+ //    $("h1").css("color","black");
+  // },
    function(){
       $("h1").text("WELCOME!!!");
    });
