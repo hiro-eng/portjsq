@@ -52,6 +52,9 @@ document.bgColor="pink";
   },
    function(){
      $("h1").css("color","black");
+   },function(){
+      $("h1").text("WELCOME!!!");
+  
    });
   $("h1").click(function(){
 
