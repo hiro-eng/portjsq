@@ -45,17 +45,20 @@ function msg1(){
 
 document.bgColor="pink";
 
-　　$(document).ready(function(){
-  $("h1").hover(
-    function(){
+$(document).ready(function(){
+   
+ $("h1").hover(
+     function(){
     $("h1").css("color","#ff6666");
   },
    function(){
      $("h1").css("color","black");
-   },function(){
+   },
+   function(){
       $("h1").text("WELCOME!!!");
-  
    });
+   
+   
   $("h1").click(function(){
 
     $("h1").slideUp();
