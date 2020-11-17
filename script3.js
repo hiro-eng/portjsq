@@ -28,6 +28,7 @@ document.write("<br><hr>");
 document.write("画面を二回クリックするとメッセージが表示されるよ！<br>".bold().italics());
 document.write("<hr>");
 document.write("当ページはPC専用です。<br>".bold().italics());
+document.write("HTML/CSSバージョンはこちら".link("https://hiro-eng.github.io/teckteck/"));
 document.write("<hr>");
 document.write("<br>>>>>>>>>".bold());
 
