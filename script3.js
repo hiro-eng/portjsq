@@ -48,15 +48,18 @@ document.bgColor="pink";
 $(document).ready(function(){
    
  $("h1").hover(
-     function(){
-    $("h1").css("color","#ff6666");
-  },
+//     function(){
+//    $("h1").css("color","#ff6666");
+//  },
 //   function(){
- //    $("h1").css("color","black");
-  // },
+//    $("h1").css("color","black");
+// },
    function(){
-      $("h1").text("WELCOME!!!");
-   });
+      $("h1").text("WELCOME!!!!!!!!").css("color","#ff6666");
+   },
+    function(){
+       $("h1").text("ITのお仕事ならお任せ").css("color","black");
+    });
    
    
   $("h1").click(function(){
