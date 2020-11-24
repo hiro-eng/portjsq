@@ -1,5 +1,5 @@
 str = "Teck-Teck World";
-document.write("<hr>");
+//document.write("<hr>");
 //document.write(str.fontsize(32).italics());
 document.write("<hr>");
 document.write("あなたのお気に入りのwebページを作ります。<br>".bold().italics());
