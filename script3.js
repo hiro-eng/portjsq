@@ -58,14 +58,14 @@ $(document).ready(function(){
       $("h1").text("WELCOME!!!!!!!!!!!!!!!!!").css("color","red");
    },
     function(){
-       $("h1").text("ITのお仕事ならお任せ").css("color","black");
+       $("h1").html("<i>ITのお仕事ならお任せ</i>").css("color","black");
     });
    $("h2").hover(
       function(){
          $("h2").text("プログラマー大大大募集中!!!!").css("color","red");
       },
       function(){
-         $("h2").text("Teck-Teck Workd").css("color","black");
+         $("h2").html("<i>Teck-Teck Workd</i>").css("color","black");
       });        
    
   $("h1").click(function(){
