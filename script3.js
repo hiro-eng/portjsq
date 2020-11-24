@@ -79,10 +79,10 @@ $(document).ready(function(){
 
  $("#T1").hover(
    function(){
-    $("#T1").css("color","#ff6666");
+    $("#T1").css("color","red");
   },
   function(){
-    $("#T1").css("color","black");
+    $("#T1").css("color","black").text("2021年Teck-Teck World始動!!!");
 
   });
 
