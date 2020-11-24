@@ -72,7 +72,7 @@ $(document).ready(function(){
          $("h2").text("プログラマー大大大募集中!!!!").css("color","red");
       },
       function(){
-         $("h2").html("<i>Teck-Teck Workd</i>").css("color","black");
+         $("h2").html("<i>Teck-Teck Word</i>").css("color","black");
       });        
    
   $("h1").click(function(){
