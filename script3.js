@@ -1,6 +1,6 @@
 str = "Teck-Teck World";
 document.write("<hr>");
-document.write(str.fontsize(32).italics());
+//document.write(str.fontsize(32).italics());
 document.write("<hr>");
 document.write("あなたのお気に入りのwebページを作ります。<br>".bold().italics());
 document.writeln("<img src = 'https://github.com/hiro-eng/portjsq/blob/main/20201110-2240_260a3efb198a5af13819bb04f119ccf0.jpg?raw=true' width= '500px' height ='350px'　alt ='スマホを見る少女'>");
@@ -55,12 +55,18 @@ $(document).ready(function(){
 //    $("h1").css("color","black");
 // },
    function(){
-      $("h1").text("WELCOME!!!!!!!!!!!!!!!!!").css("color","#ff6666");
+      $("h1").text("WELCOME!!!!!!!!!!!!!!!!!").css("color","red");
    },
     function(){
        $("h1").text("ITのお仕事ならお任せ").css("color","black");
     });
-   
+   $("h2").hover(
+      function(){
+         $("h2").text("プログラマー大大大募集中!!!!").css("color","red");
+      },
+      function(){
+         $("h2").text("Teck-Teck Workd").css("color","black");
+      });        
    
   $("h1").click(function(){
 
