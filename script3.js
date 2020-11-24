@@ -10,7 +10,14 @@ document.write("HP作成/管理<br>".fontsize(16).italics());
 document.write("企業ロゴ作成/SNS対策/SEO対策<br>".bold().italics());
 document.write("お気軽にお問い合わせください。<br>".bold().italics());
 document.write("Mail: walkerjpjp@gmail.com".bold().italics());
+
 document.write("<br><hr>");
+document.write("プログラマー、エンジニア、webデザイナー大募集中<br>".fontsize(16).italics());
+document.write("Teck-TEck　Worldでは、２０２１年の始動に向けて<br>お仕事をしてくださるかたを募集しています。(登録制)<br>".bold().italics());
+document.write("詳細は、お気軽にお問い合わせください。<br>".bold().italics());
+document.write("Mail: walkerjpjp@gmail.com".bold().italics());
+document.write("<br><hr>");
+
 document.write("Teck-Teck Worldについて<br>".fontsize(16).italics());
 document.write("埼玉県を拠点として、HIROHIROを中心に活動しています。<br>".bold().italics());
 document.write("インターネット関係のお仕事なら、<br>".bold().italics());
