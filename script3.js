@@ -70,8 +70,12 @@ $(document).ready(function(){
    
   $("h1").click(function(){
 
-    $("h1").slideUp();
+    $("h1").slideUp(1000);
   });
+   
+   $("h2").click(function(){
+      $("h2").slideUp(1000);
+   });
 
  $("#T1").hover(
    function(){
